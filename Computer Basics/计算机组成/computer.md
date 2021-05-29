@@ -19,7 +19,7 @@
     * 存储器：存放程序和数据
     * 控制器：指挥功能
 
-![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png =100x100)
+![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png)
 
   以上结构有两个问题：
     * 运算器为中心，导致运算器成为计算机系统的瓶颈
@@ -28,7 +28,7 @@
 3. 对以上的作出改进
     * 针对中心做一个改进，变成以存储器为中心
 
-![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%94%B9%E8%BF%9B%E7%89%88V1.png =100x100)
+![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%94%B9%E8%BF%9B%E7%89%88V1.png)
 
 
  
