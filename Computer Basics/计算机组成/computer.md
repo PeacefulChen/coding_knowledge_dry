@@ -4,6 +4,7 @@
 ### 计算机基本组成
 
 1. 冯诺伊曼计算机特点
+   <br/>为什么要了解冯诺伊曼计算机？以说,冯·诺依曼体系架构确立了我们现在每天使用的计算机硬件的基础架构。因此,学习计算机组成原理,其实就是学习冯·诺依曼体系结构。</br>
    * 计算机五大部分组成
    * **指令**和**数据**同等低温存于寄存器
    * 指令和数据都以二进制形式
@@ -19,7 +20,7 @@
     * 存储器：存放程序和数据
     * 控制器：指挥功能
 
-<img src="https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png" width = "400" height = "400" alt="冯诺伊曼计算机框架" align=center />
+<img src="https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png" width = "500" height = "300" alt="冯诺伊曼计算机框架" align=center />
 
 
   以上结构有两个问题：
@@ -29,11 +30,7 @@
 3. 对以上的作出改进
     * 针对中心做一个改进，变成以存储器为中心
 
+<img src="https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%94%B9%E8%BF%9B%E7%89%88V1.png" width = "500" height = "300" alt="改进之后计算机框架" align=center />
 
-<img src="https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%94%B9%E8%BF%9B%E7%89%88V1.png" width = "400" height = "400" alt="冯诺伊曼计算机框架" align=center />
-![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%93%E6%9E%84%E6%94%B9%E8%BF%9B%E7%89%88V1.png)
-
-
- 
  
       
