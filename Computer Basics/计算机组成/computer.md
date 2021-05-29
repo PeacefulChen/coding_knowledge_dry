@@ -19,6 +19,8 @@
     * 存储器：存放程序和数据
     * 控制器：指挥功能
 
+<img src="https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png" width = "300" height = "200" alt="冯诺伊曼计算机框架" align=center />
+
 ![](https://github.com/PeacefulChen/coding_knowledge_dry/blob/main/image/%E5%86%AF%E8%AF%BA%E4%BC%8A%E6%9B%BC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%9B%BE.png)
 
   以上结构有两个问题：
